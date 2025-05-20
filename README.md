@@ -140,23 +140,4 @@ Desenvolvedores:
 - [nome](link)
 - [nome](link)
 
---
-## 10 - Nome do(a) assistente
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
-
-**Quem sou eu:**
-
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
-
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
-
-Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-
---
