@@ -1,4 +1,4 @@
-##  - MoodBot
+##  MoodBot
 
 ![MoodBot](https://raw.githubusercontent.com/Gustavo-mouraDev/chatExpo-TADS045/main/img/MoodBot.png)
 
